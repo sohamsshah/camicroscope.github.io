@@ -1,0 +1,18 @@
+/* Global Styles */
+
+:root{
+    --primary-color: #9A2CA0;
+    --secondary-color: #4F5D75;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+
+.navbar-brand{
+    color:var(--primary-color);
+    font-weight: bolder;
+}
